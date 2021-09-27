@@ -9,4 +9,4 @@ Essa é uma aplicação onde o seu principal objetivo é uma pequena aplicaç
 - Remover uma tarefa
 - Marcar e desmarcar uma tarefa como concluída!
  
-[To-do](https://user-images.githubusercontent.com/61559973/134831607-5d819051-3c59-46e6-ab39-c1fe8b2c407d.jpg)
+![To-do](https://user-images.githubusercontent.com/61559973/134831607-5d819051-3c59-46e6-ab39-c1fe8b2c407d.jpg)
